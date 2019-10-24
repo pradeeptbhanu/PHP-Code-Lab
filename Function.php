@@ -2,7 +2,6 @@
 /*
 * Woocommerce Custom Order Status Create & Mail Template 
 * Tested Woocommerce Version: 3.7.0
-* 
 *
 *
 *
